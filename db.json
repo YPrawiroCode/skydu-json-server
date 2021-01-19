@@ -1,0 +1,15 @@
+{
+  "mahasiswa": [
+    { "id": 1, "nama": "bambang", "tahunmasuk": "2013" },
+    { "id": 2, "nama": "sofie", "tahunmasuk": "2013" },
+    { "id": 3, "nama": "ani", "tahunmasuk": "2015" },
+    { "id": 4, "nama": "mukhlis", "tahunmasuk": "2017" },
+    { "id": 5, "nama": "selfi", "tahunmasuk": "2017" }
+  ],
+  "fakultas": [
+    { "id": 1, "namafakultas": "kedokteran", "kode": "nf1" },
+    { "id": 2, "namafakultas": "mipa", "kode": "nf2" },
+    { "id": 3, "namafakultas": "teknik", "kode": "nf3" }
+  ],
+  "universitas": { "nama": "misalnyasaja" }
+}
