@@ -11,5 +11,5 @@
     { "id": 2, "namafakultas": "mipa", "kode": "nf2" },
     { "id": 3, "namafakultas": "teknik", "kode": "nf3" }
   ],
-  "universitas": { "nama": "misalnyasaja" }
+  "universitas": { "id":1, "nama": "misalnyasaja" }
 }
