@@ -1,10 +1,10 @@
 {
   "mahasiswa": [
-    { "id": 1, "nama": "bambang", "tahunmasuk": "2013", "kode": "nf1" },
-    { "id": 2, "nama": "sofie", "tahunmasuk": "2013", "kode": "nf3" },
-    { "id": 3, "nama": "ani", "tahunmasuk": "2015", "kode": "nf1" },
-    { "id": 4, "nama": "mukhlis", "tahunmasuk": "2017","kode": "nf3" },
-    { "id": 5, "nama": "selfi", "tahunmasuk": "2017", "kode": "nf2" }
+    { "id": 320131, "nama": "bambang", "tahunmasuk": "2013", "kodefakultas": "3" },
+    { "id": 320132, "nama": "sofie", "tahunmasuk": "2013", "kodefakultas": "3" },
+    { "id": 220151, "nama": "ani", "tahunmasuk": "2015", "kodefakultas": "2" },
+    { "id": 120171, "nama": "mukhlis", "tahunmasuk": "2017","kodefakultas": "1" },
+    { "id": 120172, "nama": "selfi", "tahunmasuk": "2017", "kodefakultas": "1" }
   ],
   "fakultas": [
     { "id": 1, "namafakultas": "kedokteran", "kode": "nf1" },
