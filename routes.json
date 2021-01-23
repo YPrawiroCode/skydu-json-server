@@ -1,5 +1,5 @@
 {
-    "/api/": "/db",
+    "/api/": "/mahasiswa",
     "/bio/:fakultas/:id/mahasiswa": "/:resource/:id",
     "/bio/:fakultas": "/mahasiswa?kodefakultas=:fakultas"
   }
