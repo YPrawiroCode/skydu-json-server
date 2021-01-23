@@ -1,5 +1,5 @@
 {
-    "/api/": "/",
-    "/blog/:resource/:id/show": "/:resource/:id",
-    "/blog/:category": "/posts?category=:category"
+    "/api/": "/db",
+    "/bio/:fakultas/:id/mahasiswa": "/:resource/:id",
+    "/bio/:fakultas": "/mahasiswa?kodefakultas=:fakultas"
   }
