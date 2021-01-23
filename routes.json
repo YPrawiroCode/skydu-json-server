@@ -1,6 +1,6 @@
 {
     "/api/*": "/$1",
     "/:resource/:id/show": "/:resource/:id",
-    "/mahasiswa/:kodefakultas": "/mahasiswa?kodefakultas=:kodefakultas"
+    "/mahasiswa/:kodefakultas": "/mahasiswa?kodefakultas=:kodefakultas",
      "/fakultas\\?id=:id": "/fakultas/:id"
   }
