@@ -1,5 +1,6 @@
 {
-    "/api/": "/mahasiswa",
-    "/bio/:fakultas/:id/mahasiswa": "/:resource/:id",
-    "/bio/:fakultas": "/mahasiswa?kodefakultas=:fakultas"
+    "/api/*": "/$1",
+    "/:resource/:id/show": "/:resource/:id",
+    "/mahasiswa/:kodefakultas": "/mahasiswa?kodefakultas=:kodefakultas"
+     "/fakultas\\?id=:id": "/fakultas/:id"
   }
